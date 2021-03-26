@@ -11,7 +11,7 @@ int main() {
 
   cout<<endl;
 
-  cout<<"ENTER THE DATE FOR WHICH YOU WANT TO KNOW DAY :-  "<<endl;
+  cout<<"ENTER THE DATE FOR WHICH YOU WANT TO FIND DAY :-  "<<endl;
 
   cout<<endl;
 
