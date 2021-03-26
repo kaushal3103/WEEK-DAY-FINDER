@@ -1,4 +1,4 @@
-# WEEKDAY-CALCULATOR
+# Weekday-Calculator
 
 You can find weekday of any date year ranging from 1599 to 2300.
 
