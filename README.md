@@ -1,6 +1,6 @@
 # Weekday-Calculator
 
-You can find weekday of any date year ranging from 1599 to 2300.
+You can find weekday of any date ranging from year 1599 to 2300.
 
 How To Find 
 
